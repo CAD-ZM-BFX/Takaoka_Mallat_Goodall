@@ -134,7 +134,7 @@ Differential analysis are performed as below: <br>
 
 ### Figures Summary links
 
-DESeq2_GO_GSE_Analysis_Mar_2022.R[[Rscript](Scripts/DESeq2_GO_GSE_Analysis_Mar_2022.R)]
+CAD_jcg23_0001-DESeq_Analysis_modified_Nov_2022.R[[Rscript](Scripts/CAD_jcg23_0001-DESeq_Analysis_modified_Nov_2022.R)]
 
 | Figures       | Downloads            |Image         | Legend (Corresponding Fig)|
 --------        |  --------------------|--------------| ------------------------  |
@@ -142,7 +142,7 @@ SuppFigxx-Cust_PCA_allSamples_April_2023_withoutPath.pdf | [[PDF](Figures_Tables
 SuppFigxx-Comparing_Numbers_DEGs_with_time_April_2023.pdf | [[PDF](Figures_Tables/SuppFigxx-Comparing_Numbers_DEGs_with_time_April_2023.pdf)]|<IMG SRC="Figures_Tables/SuppFigxx-Comparing_Numbers_DEGs_with_time_April_2023.png" width=300px> | Line dot plot to show the number of DEGs identified with different comparisons.|
 Fig2c_SFig2g-SelPathways_genes_heatmap.pdf | [[PDF](Figures_Tables/Fig2c_SFig2g-SelPathways_genes_heatmap.pdf)]|<IMG SRC="Figures_Tables/Fig2c_SFig2g-SelPathways_genes_heatmap.png" width=300px> | Selected genes foldchanges  relating to corresponding pathways heatmap across different comparison.|
 Fig2d-DESeq2_ImmuneCellTypeDeconvolution_stacked_barplot.pdf | [[PDF](Figures_Tables/Fig2d-DESeq2_ImmuneCellTypeDeconvolution_stacked_barplot.pdf)]|<IMG SRC="Figures_Tables/Fig2d-DESeq2_ImmuneCellTypeDeconvolution_stacked_barplot.png" width=300px> | RNA deconvolution stacked bar plot.|
-Figxx-Pathways_Heatmap_KOvsWT_WT_avgP_25_April_2023.pdf | [[PDF](Figures_Tables/Figxx-Pathways_Heatmap_KOvsWT_WT_avgP_25_April_2023.pdf)]|<IMG SRC="Figxx-Pathways_Heatmap_KOvsWT_WT_avgP_25_April_2023.png" width=300px> |selected pathways heatmap plot with padjusted value in each comparisons.|
+Figxx-Pathways_Heatmap_KOvsWT_WT_avgP_25_April_2023.pdf | [[PDF](Figures_Tables/Figxx-Pathways_Heatmap_KOvsWT_WT_avgP_25_April_2023.pdf)]|<IMG SRC="Figures_Tables/Figxx-Pathways_Heatmap_KOvsWT_WT_avgP_25_April_2023.png" width=300px> |selected pathways heatmap plot with padjusted value in each comparisons.|
 
 
 
