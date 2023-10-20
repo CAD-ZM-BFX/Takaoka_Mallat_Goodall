@@ -173,53 +173,6 @@ STable15|Transcription Factor analysis for post week 7 after irradiate (KOvsWT) 
 
 
 
-## Software R Versions & Methods
-
-````
-R version 4.2.1 (2022-06-23)
-Platform: x86_64-pc-linux-gnu (64-bit)
-Running under: Ubuntu 16.04.7 LTS
-
-Matrix products: default
-BLAS:   /storage/Software/packages/R-4.0.2/lib/libRblas.so
-LAPACK: /storage/Software/packages/R-4.0.2/lib/libRlapack.so
-
-locale:
- [1] LC_CTYPE=en_GB.UTF-8       LC_NUMERIC=C              
- [3] LC_TIME=en_GB.UTF-8        LC_COLLATE=en_GB.UTF-8    
- [5] LC_MONETARY=en_GB.UTF-8    LC_MESSAGES=en_GB.UTF-8   
- [7] LC_PAPER=en_GB.UTF-8       LC_NAME=C                 
- [9] LC_ADDRESS=C               LC_TELEPHONE=C            
-[11] LC_MEASUREMENT=en_GB.UTF-8 LC_IDENTIFICATION=C       
-
-attached base packages:
- [1] grid      parallel  stats4    stats     graphics  grDevices utils    
- [8] datasets  methods   base     
-
-other attached packages:
- [1] ComplexHeatmap_2.6.2        ggalt_0.4.0                
- [3] BiocParallel_1.24.1         ggbeeswarm_0.6.0           
- [5] scales_1.1.1                RColorBrewer_1.1-2         
- [7] pheatmap_1.0.12             ggforce_0.3.3              
- [9] biomaRt_2.47.9              DESeq2_1.30.1              
-[11] SummarizedExperiment_1.20.0 Biobase_2.50.0             
-[13] MatrixGenerics_1.2.1        GenomicRanges_1.42.0       
-[15] GenomeInfoDb_1.26.7         IRanges_2.24.1             
-[17] S4Vectors_0.28.1            BiocGenerics_0.36.1        
-[19] reshape2_1.4.4              reshape_0.8.8              
-[21] useful_1.2.6                matrixStats_0.58.0         
-[23] Matrix_1.3-3                cowplot_1.1.1              
-[25] ggrepel_0.9.1               ggplot2_3.3.3              
-[27] dplyr_1.0.6                 tidyr_1.1.3                
-
-loaded via a namespace (and not attached):
- [1] bitops_1.0-7           bit64_4.0.5            ash_1.0-15            
- [4] progress_1.2.2         httr_1.4.2             tools_4.0.2           
- [7] utf8_1.2.1             R6_2.5.0               KernSmooth_2.23-20    
-[10] vipor_0.4.5            DBI_1.1.1              colorspace_2.0-1        
- .....           
-````
-
 ## Contact
 
 Contact Xiaohui Zhao (xz289 -at- cam.ac.uk)
