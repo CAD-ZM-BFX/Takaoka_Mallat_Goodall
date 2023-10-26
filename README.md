@@ -83,7 +83,7 @@ All the associated raw data presented in this paper are available from the corre
 Raw RNA-sequencing data is accessible through the EMBL-EBI ArrayExpress with accession number E-MTAB-12831. (https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-12831)
 
 Code availability
-Custom codes for RNA-sequencing analysis used in this paper are available on on Github (https://github.com/ https://github.com/CAD-ZM-BFX/Takaoka_Mallat_Godall, DOI:xxxxxxx).
+Custom codes for RNA-sequencing analysis used in this paper are available on on Github (https://github.com/CAD-ZM-BFX/Takaoka_Mallat_Godall, DOI:xxxxxxx).
 
 
 
