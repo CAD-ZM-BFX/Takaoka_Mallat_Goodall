@@ -122,6 +122,16 @@ CAD_jcg23_0001-nextflow_SampleTable.csv [[CSV](CAD_jcg23_0001-nextflow_SampleTab
 
 ```shell
 
+export PATH=$PATH:$HOME/packages/NextFlow
+NXF_OPTS='-Xms1g -Xmx4g'
+export NXF_SINGULARITY_CACHEDIR=$HOME/.singularity
+
+nextflow run nf-core/rnaseq -bg -profile singularity -r 3.2 --skipBiotypeQC \
+        --input CAD_jcg23_0001-nextflow_SampleTable.csv --aligner star_salmon \
+        --fasta GRCm39.fa.gz --gtf GRCm39.gtf.gz --gtf_extra_attributes 'gene_id' \
+        --outdir  ${Outdir} --multiqc_title CAD_jcg23_0001-GADD34_WTKO_NF_Ensembl_GRCm39 \
+        --email xz289@cam.ac.uk -with-report ${Outdir}/report.html &> ${Outdir}/nextflow_command.log &
+
  ```
 **Software Versions in nextflow (nf-core/rnaseq):** <br>
 see Supplementary_Data_Oct_2023.xlsx[[XLSX](Figures_Tables/Supplementary_Data_Oct_2023.xlsx)], *STable2*.
